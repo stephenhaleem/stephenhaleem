@@ -2,7 +2,7 @@
 <img src =https://media2.giphy.com/media/l49JXTYPlm0ABKYzS/giphy.gif?cid=6c09b952rd46w4nc94nxthg5ze3058hc1ezb9mvdmfgpl2kx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g>
 </p>
 <h1 align="center">Hi , I'm Obilana Eniola</h1>
-<h3 align="center">A passionate developer from Nigeria</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - I’m currently learning **javascript,node**
 
