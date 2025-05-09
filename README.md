@@ -6,7 +6,7 @@
 
 - I’m currently learning **javascript,node**
 
-- All of my projects are available at [https://1910.netlify.app/](https://1910.netlify.app/)
+- All of my projects are available at [https://stephenhaleem.xyz/](https://stephenhaleem.xyz/)
 
 - How to reach me **obilanaeniola01@gmail.com**
 <h3 align="left">Connect with me:</h3>
