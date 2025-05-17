@@ -4,8 +4,6 @@
 <h1 align="center">Hi , I'm Obilana Eniola</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- I’m currently learning **javascript,node**
-
 - All of my projects are available at [https://stephenhaleem.xyz/](https://stephenhaleem.xyz/)
 
 - How to reach me **obilanaeniola01@gmail.com**
