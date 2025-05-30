@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Obilana Eniola</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- All of my projects are available at [https://stephenhaleem.xyz/](https://stephenhaleem.xyz/)
+- All of my projects are available at [https://stephenhaleem.xyz/](https://www.stephenhaleem.xyz/)
 
 - How to reach me **obilanaeniola01@gmail.com**
 <h3 align="left">Connect with me:</h3>
